@@ -1,1 +1,19 @@
-.
+ul{
+    align-items: center;
+    list-style: none;
+}
+
+header{
+    height: 80px;
+    width: 100%;
+    background-color: blue;
+}
+li{
+    float: left;
+    margin-left: 10px;
+}
+nav{
+    top: 0;
+    position: relative;
+    float: right;
+}
