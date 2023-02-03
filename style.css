@@ -66,12 +66,12 @@
 
  section {
    padding: 15px;
-   background-color: rgba(112, 128, 144, 0.503);
+   background-color: rgba(112, 128, 144, 0.247);
  }
 
  footer {
    padding: 15px;
-
+   background-color: rgba(63, 60, 60, 0.644);
  }
 
  #primerFila {
@@ -79,9 +79,13 @@
  }
 
  #primerFilaLogos {
-  float: left;
+  text-align: left;
  }
 
  h5{
   font-weight: 350;
+ }
+
+ a{
+  list-style: none;
  }
